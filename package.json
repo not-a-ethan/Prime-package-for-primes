@@ -1,12 +1,12 @@
 {
   "name": "prime-package-for-primes",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "The prime package for primes is a package for finding primes and generating primes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["primes", "prime", "prime numbers", "prime number", "prime package", "prime package for primes", "prime package for prime numbers", "prime package for prime number"],
   "author": "Ethan",
   "license": "Apache License 2.0"
 }
