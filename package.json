@@ -8,5 +8,9 @@
   },
   "keywords": ["primes", "prime", "prime numbers", "prime number", "prime package", "prime package for primes", "prime package for prime numbers", "prime package for prime number"],
   "author": "Ethan",
-  "license": "Apache License 2.0"
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-a-ethan/Prime-package-for-primes.git"
+  }
 }
