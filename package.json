@@ -1,6 +1,6 @@
 {
   "name": "prime-package-for-primes",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "The prime package for primes is a package for finding primes and generating primes.",
   "main": "index.js",
   "scripts": {
